@@ -18,9 +18,12 @@ By tinkering with my program you will hopefully learn:
 * XRP-ledger.txt: A text file that simulates the public blockchain and a ledger of all the transactions 
 
 ## How to run the application 
-1. Login using an account (private key) located in XRP-test-accounts.txt
-2. If you want to send XRP, choose another account and different public key (using XRP-test-accounts.txt)
-3. Play around with menu items 
+1. Download this repository
+2. Open and run Application.py
+3. Login using an account (private key) located in XRP-test-accounts.txt
+4. Play around with menu items
+5. If you want to send XRP, choose another account and different public key (using XRP-test-accounts.txt)
+6. Logout 
 
 ## Disclaimer 
 I'm definitely a rookie when it comes to programming and blockchain so please feel free to offer code suggestions or let me know if I've misrepresented a crypto concept. 
